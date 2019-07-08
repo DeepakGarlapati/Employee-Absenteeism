@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561428984129.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2897114795",
+    "id" : "802AD471",
+    "lastKnownWriteTime" : 1562121151,
+    "last_content_update" : 1562121151366,
+    "path" : "~/R/Employee Absenteeism/Employee Absenteeism/Absenteeism_at_work.R",
+    "project_path" : "Absenteeism_at_work.R",
+    "properties" : {
+        "cursorPosition" : "456,14",
+        "scrollLine" : "434",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
